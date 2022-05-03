@@ -1,0 +1,1 @@
+print("collectig data from hardware")
